@@ -1,2 +1,2 @@
 # diypython2
-site: diypython.ddnd.net
+site: diypython.ddns.net
